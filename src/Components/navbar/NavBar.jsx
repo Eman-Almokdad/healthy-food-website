@@ -1,5 +1,4 @@
 import styles from './navbar.module.css'
-import Link from "next/link"
 import Links from "./Links/Links"
 import Image from "next/image"
 import logo from '../../../public/Logo.svg'

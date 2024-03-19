@@ -33,7 +33,7 @@ return (
                     <p className={styles.f_why}>Why Choose us?</p>
                     <p className={styles.f_we}>We do not buy from the <br/>open market & traders.</p>
                     <p className="pt-3">Simply dummy text of the printing and typesetting industry. Lorem had
-                        <br/> ceased to been the industry's standard the 1500s, when an unknown
+                        <br/> ceased to been the industrys standard the 1500s when an unknown
                     </p>
                     <div className={styles.ma_about_package}>
                         <div className=" d-flex">
@@ -54,7 +54,7 @@ return (
                     </div>
                 </div>
                 <div>
-                    <p>Filling, and temptingly healthy, our Biona Organic Granola with <br/> Wild Berries is just
+                    <p>Filling and temptingly healthy, our Biona Organic Granola with <br/> Wild Berries is just
                         the thing</p>
                 </div>
             </div>

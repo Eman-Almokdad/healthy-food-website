@@ -1,4 +1,3 @@
-import styles from './team.module.css'
 import imgHero from '@/../../public/team-bg-hero.png';
 import Hero from '@/Components/Hero/Hero'
 import Subscribe from '@/Components/Subscribe/Subscribe';

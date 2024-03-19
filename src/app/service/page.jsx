@@ -1,4 +1,3 @@
-import styles from './Service.module.css'
 import imgHero from '@/../../public/service-bg-hero.png';
 import Hero from '@/Components/Hero/Hero'
 import ServiceSection1 from '@/Components/ServiceSection1/ServiceSection1';

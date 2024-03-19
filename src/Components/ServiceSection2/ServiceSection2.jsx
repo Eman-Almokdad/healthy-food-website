@@ -5,7 +5,7 @@ import Image from 'next/image'
 const ServiceSection2 = () => {
   return (
     <div className="container-fluid  d-flex justify-content-center align-items-center  " id={styles.em_bg_s12} >
-         <Image src={bgimg} className={styles.bgimg} fill />
+         <Image src={bgimg} className={styles.bgimg} alt='img' fill />
     <div className=" text-center  position-absolute" id={styles.w_55} >
         <div className="card-text">
             <p className={styles.em_p_sec}>Organic Only </p>

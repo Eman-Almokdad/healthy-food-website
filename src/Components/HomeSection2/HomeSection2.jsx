@@ -13,7 +13,7 @@ const HomeSection2 = () => {
         <h1 className={styles.h1_parag}>We Believe in Working Accredited Farmers</h1>
         <p className={styles.ma_paragraph_partTwo}>Simply dummy text of the printing and typesetting industry. Lorem had
             ceased to
-        <p className={styles.ma_paragraph_partTwo}>been the industry's standard dummy text ever since the 1500s, when an
+        <p className={styles.ma_paragraph_partTwo}>been the industrys standard dummy text ever since the 1500s, when an
             unknown printer took a
             galley.</p>
 

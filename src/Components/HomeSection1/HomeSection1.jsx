@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import styles from './HomeSection1.module.css'
 
-const HomeSection1 = ({image , title , description , maparagraph , maparagraph2}) => {
+const HomeSection1 = ({image , title , description }) => {
   return (
     
             <div className="h-100 card  text-white  position-relative" id={styles.sec1_border}>

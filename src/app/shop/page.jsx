@@ -1,4 +1,3 @@
-import styles from './shop.module.css'
 import imgHero from '@/../../public/heroHome.png';
 import Hero from '@/Components/Hero/Hero'
 import ShopeSection1 from '@/Components/ShopeSection1/ShopeSection1';

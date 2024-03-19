@@ -13,9 +13,9 @@ const ContactSection1 = () => {
     <div className="d-flex flex-wrap align-items-center  gap-3">
         <Image src={imgleft} alt="" className={styles.w_45} />
         <div className=" w-50  " id={styles.s14_div}>
-            <h1 className="pb-2 text-center " id={styles.s14_h1}>We'd love to talk about how we can work together.</h1>
+            <h1 className="pb-2 text-center " id={styles.s14_h1}>Wed love to talk about how we can work together.</h1>
             <p className="text-center "id={styles.s14_p} >Simply dummy text of the printing and typesetting industry. Lorem had ceased to
-                been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
+                been the industrys standard dummy text ever since the 1500s, when an unknown printer took a
                 galley.
             </p>
             <div className="d-flex align-items-center pt-4 gap-4 " id={styles.w_203}>

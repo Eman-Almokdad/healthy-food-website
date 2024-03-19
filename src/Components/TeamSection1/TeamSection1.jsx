@@ -61,7 +61,7 @@ const TeamSection1 = () => {
             <p className={styles.em_p_sec}>Team </p>
             <h1 className={styles.em_h1_sec}>Our Organic Experts</h1>
             <span className={styles.sp1_section13}>Simply dummy text of the printing and typesetting industry.
-                Lorem had ceased to been the industry's standard dummy text ever since the 1500s,
+                Lorem had ceased to been the industrys standard dummy text ever since the 1500s,
                 when an unknown printer took a galley.</span>
         </div>
         <div className="container ">

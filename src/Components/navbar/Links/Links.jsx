@@ -1,7 +1,6 @@
 "use client"
 import NavLink from "./navLink/NavLink";
 import styles from './links.module.css'
-import { auth } from "@/lib/auth";
 import { handleLogout } from "@/lib/action";
 const Links = ({session}) => {
     const links =[

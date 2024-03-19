@@ -1,8 +1,8 @@
 import { Suspense } from "react";
 import styles from "./admin.module.css";
 import AdminPosts from "@/Components/adminPosts/AdminPosts";
-import AdminUsers from "@/components/adminUsers/AdminUsers";
-import AdminUserForm from "@/components/adminUserForm/AdminUserForm";
+import AdminUsers from "@/Components/adminUsers/AdminUsers";
+import AdminUserForm from "@/Components/adminUserForm/AdminUserForm";
 import { auth } from "@/lib/auth";
 import AdminPostForm from "@/Components/adminPostForm/AdminPostForm";
 

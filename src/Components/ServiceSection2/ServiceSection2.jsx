@@ -10,7 +10,7 @@ const ServiceSection2 = () => {
         <div className="card-text">
             <p className={styles.em_p_sec}>Organic Only </p>
             <h1 className="card-title em-h1-sec " id={styles.em_h1_sec} >Everyday Fresh & Clean</h1>
-            <p className="card-text " id={styles.em_s12_text} >Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the </p>     
+            <p className="card-text " id={styles.em_s12_text} >Simply dummy text of the printing and typesetting industry. Lorem had ceased to been the industrys standard dummy text ever since the </p>     
             <div className="mt-5  ">
                 <Image className={styles.w_107} src={img1} alt=""/>
             </div>

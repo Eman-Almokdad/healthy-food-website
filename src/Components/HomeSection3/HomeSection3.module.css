@@ -1,0 +1,36 @@
+#ma_section_categories {
+    padding: 70px;
+}
+#btn_s3  {
+    display: flex;
+    height: 70px;
+    padding: 28px 39px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background: #274C5B;
+    color: #FFF;
+    font-weight: 700;
+    gap: 15px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+}
+#h1_categories  {
+    color: #274C5B;
+    font-size: 35px;
+    font-weight: 900;
+}
+#title1{
+    color: #7EB693;
+    font-family: Yellowtail !important;
+    font-size: 25px;
+    font-weight: 400;
+}
+#ma-categories-allcard {
+    gap: 25px;
+    z-index: 0;
+}
+@media screen and (max-width:992px) {
+
+}

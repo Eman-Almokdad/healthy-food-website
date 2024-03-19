@@ -1,0 +1,35 @@
+#sec1_border{
+    border: none;
+    width: 45%;
+}
+
+
+#imgcontainer{
+    flex: 1;
+    position: relative;
+    width: 100%;
+}
+.ma_over_p {
+    color: #7EB693 ;
+    font-family: Yellowtail;
+    font-size: 1.875rem;
+    font-weight: 400;
+
+}
+
+.ma_over_h1 {
+    color: #274C5B ;
+    font-family: Roboto;
+    font-size: 2.5rem ;
+    font-weight: 900;
+    width: 30%;
+}
+
+@media screen and (max-width:992px) {
+    #sec1_border{
+        width: 90%;
+    }
+    .ma_over_h1 {
+        width: 50%;
+    }
+}

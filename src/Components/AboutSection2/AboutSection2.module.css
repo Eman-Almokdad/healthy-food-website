@@ -1,0 +1,24 @@
+.em_p_sec{
+    color: #7EB693;
+    font-family: Yellowtail;
+    font-size: 1.562rem;
+    font-weight: 400;
+}
+.em_h1_sec{
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 2.187rem;
+    font-weight: 900;  
+}
+.sp1_section13{
+    color: #525C60;
+    font-family: Open Sans;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 165.4%; /* 26.464px */
+}
+@media screen and (max-width:992px) {
+    #padding_2{
+        padding:3rem 1rem !important;
+    }
+}

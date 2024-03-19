@@ -1,0 +1,56 @@
+#footer {
+    padding: 70px;
+}
+.maFootrtPartthree h2 {
+    color: #274C5B;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.maFootrtPartthree div h3 {
+    color: #525C60;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 165%;
+}
+
+.maFootrtPartthree p {
+    color: #525C60;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 165%;
+}
+
+#maFootrtPartTow {
+    border: 1px solid gray;
+    border-bottom: none;
+    border-top: none;
+    /* padding: 0px 50px 0 50px; */
+}
+
+#maFootrtPartTow p {
+    width: 350px;
+    color: #525C60;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 165.4%;
+    margin-top: 32px;
+}
+#ma_p2 {
+        margin-bottom: 49px !important;
+}
+@media screen and (max-width:992px) {
+    #footer{
+        width: 100%;
+        }
+        #footer div{
+            text-align: center;
+            padding: 10px;
+        }
+        #maFootrtPartTow p{
+            width: 100%;
+        }
+}

@@ -1,0 +1,42 @@
+#col_md_4{
+    width: max-content;
+}
+.ma_categories_card {
+    width: 285px;
+    height: 360px;
+    border-radius: 10px;
+    background: #F9F8F8;
+    padding: 12px 22px 0 22px;
+}
+.ma_categories_button {
+    padding: 5px 12px 6px 12px;
+    border-radius: 8px;
+    background: #274C5B;
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    width: 80px;
+    border: none;
+}
+.ma_categories_paragraph {
+    color: #274C5B;
+    font-size: 16px;
+    font-weight: 700;
+}
+.ma_categories_underline {
+    border: 1px solid rgba(128, 128, 128, 0.4);
+}
+#ma_categories_package p del {
+    color: #B8B8B8;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#ma_categories_package p {
+    color: #274C5B;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+}

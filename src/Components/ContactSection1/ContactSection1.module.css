@@ -1,0 +1,38 @@
+.w_45{
+    width: 46%;
+}
+#s14_h1{
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 2.187rem;
+    font-weight: 900;
+}
+#s14_p{
+    color: #525C60;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 165.4%;
+}
+.s14_h4{
+    color: #274C5B;
+
+font-family: Roboto;
+font-size: 1.562rem;
+font-weight: 900;
+}
+@media screen and (max-width:992px) {
+    .w_45{
+        width: 100%;
+    }
+    #s14_div{
+        margin:0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #w_203{
+        width: 203px;
+    }
+}

@@ -1,0 +1,85 @@
+#ma_believe_section {
+    background-color: #F9F8F8;
+
+}
+#ma_about_partOne{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h1_parag {
+    max-width: 500px;
+    color: #274C5B;
+    font-size: 2.375rem;
+    font-weight: 900;
+}
+
+.ma_paragraph_partTwo {
+    max-width: 525px;
+    color: #525C60;
+    font-family: Open Sans;
+    line-height: 165.4%;
+}
+
+#ma_about_space {
+    margin-left: 20px;
+}
+
+.h3_parag {
+    color: #274C5B;
+    font-size: 1.25rem;
+    font-weight: 800;
+
+}
+
+#ma_p_cardOne  {
+    width: 400px;
+    color: #525C60;
+    font-family: Open Sans;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 165.4%;
+}
+
+#ma_about_partOne button{
+    display: flex;
+    height: 70px;
+    padding: 28px 39px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background: #274C5B;
+    color: #FFF;
+    font-weight: 700;
+    gap: 15px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+}
+
+.ma_paragraph_partOne{
+    color: #7EB693;
+    font-family: Yellowtail;
+    font-size: 1.562rem;
+    font-weight: 400;
+}
+/*     */
+@media screen and (max-width:992px) {
+    #ma_about_partOne{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #ma_about_partOne{
+        width: 100%;
+        padding:  0px 10px;
+    }
+    .ma-believe-section{
+        text-align: center;
+    }
+    #ma_believe_img{
+        width:100% !important;
+    }
+}

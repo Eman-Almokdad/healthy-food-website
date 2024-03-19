@@ -1,0 +1,18 @@
+#divContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: white;
+}
+  .wrapper{
+    width: 500px;
+    background-color: #F9F8F8;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 30px;
+    border-radius: 5px;
+  }
+

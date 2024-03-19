@@ -1,0 +1,32 @@
+.ma_offer_section {
+    padding: 70px;
+    background: #274C5B;
+}
+.title1{
+    color: #7EB693;
+    font-family: Yellowtail !important;
+    font-size: 25px;
+    font-weight: 400;
+}
+.h1_sec4 {
+    color: #FFF;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+#btn_sec4 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 190px;
+    padding: 28px 39px;
+    border-radius: 10px;
+    background: #EFD372;
+    color: #274C5B;
+    font-size: 16px;
+    font-weight: 700;
+}
+#ma_categories_allcard {
+    gap: 25px;
+    z-index: 0;
+}

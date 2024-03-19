@@ -1,0 +1,56 @@
+#ServiceSection1 {
+    padding: 7.3206vh 0px;
+}
+#w_65{
+    width: 65%;
+}
+.em_p_sec{
+    color: #7EB693;
+    font-family: Yellowtail;
+    font-size: 25px;
+    font-weight: 400;
+}
+.em_h1_sec{
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: 900;  
+}
+#column1{
+    max-width: max-content;
+    margin-top: 70px;
+}
+#em_title_serv{
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    }
+#em_text_serv{
+        color: #525C60;
+        font-family: Open Sans;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 165.4%;
+}
+#max_w{
+    max-width: max-content;
+}
+#em_btn_s11{
+    width: 180px;
+    height: 70px;
+    border-radius: 10px;
+    border: 2px solid #335B6B;
+    background: #F9F8F8;
+}
+.em_s11_span{
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+}
+@media screen and (max-width:992px) {
+    #em_text{
+        text-align: center;
+    }
+}

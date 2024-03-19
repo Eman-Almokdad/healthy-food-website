@@ -1,0 +1,31 @@
+#S13_bg_color{
+    width: 100%;
+    background-color: #F9F8F8;
+}
+#S13_h5{
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 1.25rem;
+    font-weight: 900;
+}
+#S13_p{
+    color: #7EB693;
+    font-family: Yellowtail;
+    font-size: 1.375rem;
+    font-weight: 400;
+    }
+#gap_17{
+    gap: 17px;
+}
+@media screen and (max-width:992px) {
+    #card{
+    max-width: 18rem !important;
+}
+#col{
+    display: flex !important;
+    justify-content: center !important;
+}
+.social{
+    width: 16px;
+}
+}

@@ -1,0 +1,65 @@
+#ma_section_subscribe{
+    position: relative;
+    height: 323px;
+    
+}
+.img_bg{
+    position:absolute;
+    width: 100%;
+    z-index: -5;
+    object-fit: cover;
+}
+#ma_subscribe_partOne {
+    width: 100%;
+    height: 100%;
+}
+#textContainer{
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+    height: 100%;
+    padding: 70px;
+}
+.ma_subscribe_h1 {
+    color: #FFF;
+    font-size: 2.5rem;
+    font-weight: 900;
+    width: 280px;
+}
+.ma_subscribe_input {
+    width: 349px;
+    height: 80px;
+    border-radius: 16px;
+    background: #FFF;
+    border: none;
+    padding: 1.2rem;
+    font-size: 1.5rem;
+}
+
+
+.ma_sub_btn {
+    width: 218px;
+    height: 80px;
+    padding: 28px 47px 29px 47px;
+    border-radius: 16px;
+    background: #274C5B;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+}
+@media screen and (max-width:992px) {
+    #textContainer{
+        padding: 20px;
+    }
+    .ma_subscribe_h1{
+        text-align: center;
+    }
+    #ma_subscribe_form{
+    width: 100%;
+    text-align: center;
+    }
+    .ma_sub_btn , .ma_subscribe_input{
+    width: 100%
+    }
+    }

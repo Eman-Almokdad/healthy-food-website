@@ -1,0 +1,32 @@
+#em_bg_s12 {
+padding: 100px 0 !important;
+position: relative;
+height: 499px;
+}
+.bgimg{
+    object-fit: cover;
+}
+#w_55{
+    width:55%;
+}
+.em_p_sec{
+    color: #7EB693;
+    font-family: Yellowtail;
+    font-size: 1.562rem;
+    font-weight: 400;
+}
+#em_h1_sec{
+    color: #274C5B;
+    font-family: Roboto;
+    font-size: 2.187rem;
+    font-weight: 900;  
+}
+#em_s12_text{ 
+    color: #274C5B;
+    font-family: Open Sans;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.w_107{
+    width: 107px;
+}

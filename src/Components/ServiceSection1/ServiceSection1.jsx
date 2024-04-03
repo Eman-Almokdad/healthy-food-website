@@ -68,7 +68,7 @@ const ServiceSection1 = () => {
                         </div>
                 </div>
                 </div>
-                <button type="button" className="btn  d-flex justify-content-evenly align-items-center mt-5" id={styles.em_btn_s11}><span className={styles.em_s11_span}>Explore More </span> <Image src={img8} alt=""/></button>
+                <button type="button" className="btn  d-flex justify-content-evenly align-items-center mt-5" id={styles.em_btn_s11}><span className={styles.em_s11_span}>Explore More </span> </button>
                 
             </div>
         
